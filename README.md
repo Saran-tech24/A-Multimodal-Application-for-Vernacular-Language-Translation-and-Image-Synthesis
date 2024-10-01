@@ -30,39 +30,40 @@ Deploy pre-trained or fine-tuned models using Hugging Face or AWS, accessible vi
 
 **Educational Tools:**
 
-   Helps students and educators by visualizing Tamil text translations.
+  1. Helps students and educators by visualizing Tamil text translations.
    
 **Creative Content Generation:**
 
-    Assists content creators in generating visual content from Tamil descriptions.
+  1.  Assists content creators in generating visual content from Tamil descriptions.
 
 ## Approach:
 
 **Model Selection:**
 
-    Use Tamil-English translation, text-to-image, and text generation models.
+  1.  Use Tamil-English translation, text-to-image, and text generation models.
     
 **Application Development:**
 
-    Use Gradio or Streamlit to build the interface.
+  1.  Use Gradio or Streamlit to build the interface.
     
 **Integration and Testing:**
 
-    Connect Hugging Face models and ensure functionality.
+  1.  Connect Hugging Face models and ensure functionality.
     
 **Deployment:**
 
-    Deploy the app on Hugging Face Spaces or AWS.
+  1.  Deploy the app on Hugging Face Spaces or AWS.
     
 **Security and Compliance:** 
 
-    Ensure data protection and compliance.
+   1. Ensure data protection and compliance.
 
 ## Results:
 
-A fully functional web app integrating multimodal AI.
+1.A fully functional web app integrating multimodal AI.
 
-Scalable deployment using Hugging Face.
+2.Scalable deployment using Hugging Face.
 
-Comprehensive documentation, including deployment and usage guides.
+3.Comprehensive documentation, including deployment and usage guides.
+
 ![Screenshot (47)](https://github.com/user-attachments/assets/e2205d69-a728-4b8f-b3fa-dbc5418f3be4)
